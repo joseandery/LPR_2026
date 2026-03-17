@@ -9,7 +9,7 @@ int main()
    setlocale(LC_ALL, "Portuguese"); 
 
    // variaveis  primitivas
-   int varInteira = 1;
+   int varInteira = 2;
    float varFloat = 1.2;
    double varDouble = 1.2;
    char xvar = 'J';
