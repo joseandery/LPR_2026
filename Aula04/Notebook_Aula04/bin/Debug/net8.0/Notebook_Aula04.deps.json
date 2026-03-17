@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Notebook_Aula04/1.0.0": {
+        "runtime": {
+          "Notebook_Aula04.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Notebook_Aula04/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

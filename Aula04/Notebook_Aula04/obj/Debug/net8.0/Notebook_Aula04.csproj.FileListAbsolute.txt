@@ -1,0 +1,15 @@
+C:\Users\Professor\Desktop\LPR_2026\Aula04\Notebook_Aula04\bin\Debug\net8.0\Notebook_Aula04.exe
+C:\Users\Professor\Desktop\LPR_2026\Aula04\Notebook_Aula04\bin\Debug\net8.0\Notebook_Aula04.deps.json
+C:\Users\Professor\Desktop\LPR_2026\Aula04\Notebook_Aula04\bin\Debug\net8.0\Notebook_Aula04.runtimeconfig.json
+C:\Users\Professor\Desktop\LPR_2026\Aula04\Notebook_Aula04\bin\Debug\net8.0\Notebook_Aula04.dll
+C:\Users\Professor\Desktop\LPR_2026\Aula04\Notebook_Aula04\bin\Debug\net8.0\Notebook_Aula04.pdb
+C:\Users\Professor\Desktop\LPR_2026\Aula04\Notebook_Aula04\obj\Debug\net8.0\Notebook_Aula04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professor\Desktop\LPR_2026\Aula04\Notebook_Aula04\obj\Debug\net8.0\Notebook_Aula04.AssemblyInfoInputs.cache
+C:\Users\Professor\Desktop\LPR_2026\Aula04\Notebook_Aula04\obj\Debug\net8.0\Notebook_Aula04.AssemblyInfo.cs
+C:\Users\Professor\Desktop\LPR_2026\Aula04\Notebook_Aula04\obj\Debug\net8.0\Notebook_Aula04.csproj.CoreCompileInputs.cache
+C:\Users\Professor\Desktop\LPR_2026\Aula04\Notebook_Aula04\obj\Debug\net8.0\Notebook_Aula04.sourcelink.json
+C:\Users\Professor\Desktop\LPR_2026\Aula04\Notebook_Aula04\obj\Debug\net8.0\Notebook_Aula04.dll
+C:\Users\Professor\Desktop\LPR_2026\Aula04\Notebook_Aula04\obj\Debug\net8.0\refint\Notebook_Aula04.dll
+C:\Users\Professor\Desktop\LPR_2026\Aula04\Notebook_Aula04\obj\Debug\net8.0\Notebook_Aula04.pdb
+C:\Users\Professor\Desktop\LPR_2026\Aula04\Notebook_Aula04\obj\Debug\net8.0\Notebook_Aula04.genruntimeconfig.cache
+C:\Users\Professor\Desktop\LPR_2026\Aula04\Notebook_Aula04\obj\Debug\net8.0\ref\Notebook_Aula04.dll
