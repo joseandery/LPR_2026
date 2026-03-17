@@ -42,8 +42,7 @@ else if (temperatura >= 0 && temperatura < 10)
     System.Console.WriteLine("Frio de leve");
 }
 else if (temperatura > 35)
-{
-    if 
+{ 
     System.Console.WriteLine("Calorzão!");
 }
 else //CONDIÇÃO PADRÃO -> PEGA TODOS VALORES FORA DAS CONDIÇÕES MAPEADAS
