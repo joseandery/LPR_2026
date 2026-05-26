@@ -1,0 +1,15 @@
+C:\Users\Professor\Desktop\LPR_2026\Aula07\aula07_exemplovetores\bin\Debug\net8.0\aula07_exemplovetores.exe
+C:\Users\Professor\Desktop\LPR_2026\Aula07\aula07_exemplovetores\bin\Debug\net8.0\aula07_exemplovetores.deps.json
+C:\Users\Professor\Desktop\LPR_2026\Aula07\aula07_exemplovetores\bin\Debug\net8.0\aula07_exemplovetores.runtimeconfig.json
+C:\Users\Professor\Desktop\LPR_2026\Aula07\aula07_exemplovetores\bin\Debug\net8.0\aula07_exemplovetores.dll
+C:\Users\Professor\Desktop\LPR_2026\Aula07\aula07_exemplovetores\bin\Debug\net8.0\aula07_exemplovetores.pdb
+C:\Users\Professor\Desktop\LPR_2026\Aula07\aula07_exemplovetores\obj\Debug\net8.0\aula07_exemplovetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professor\Desktop\LPR_2026\Aula07\aula07_exemplovetores\obj\Debug\net8.0\aula07_exemplovetores.AssemblyInfoInputs.cache
+C:\Users\Professor\Desktop\LPR_2026\Aula07\aula07_exemplovetores\obj\Debug\net8.0\aula07_exemplovetores.AssemblyInfo.cs
+C:\Users\Professor\Desktop\LPR_2026\Aula07\aula07_exemplovetores\obj\Debug\net8.0\aula07_exemplovetores.csproj.CoreCompileInputs.cache
+C:\Users\Professor\Desktop\LPR_2026\Aula07\aula07_exemplovetores\obj\Debug\net8.0\aula07_exemplovetores.sourcelink.json
+C:\Users\Professor\Desktop\LPR_2026\Aula07\aula07_exemplovetores\obj\Debug\net8.0\aula07_exemplovetores.dll
+C:\Users\Professor\Desktop\LPR_2026\Aula07\aula07_exemplovetores\obj\Debug\net8.0\refint\aula07_exemplovetores.dll
+C:\Users\Professor\Desktop\LPR_2026\Aula07\aula07_exemplovetores\obj\Debug\net8.0\aula07_exemplovetores.pdb
+C:\Users\Professor\Desktop\LPR_2026\Aula07\aula07_exemplovetores\obj\Debug\net8.0\aula07_exemplovetores.genruntimeconfig.cache
+C:\Users\Professor\Desktop\LPR_2026\Aula07\aula07_exemplovetores\obj\Debug\net8.0\ref\aula07_exemplovetores.dll
