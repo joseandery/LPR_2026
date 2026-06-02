@@ -1,0 +1,15 @@
+C:\Users\Professor\Desktop\LPR_2026\Aula07\Aula07_Matrizes\bin\Debug\net8.0\Aula07_Matrizes.exe
+C:\Users\Professor\Desktop\LPR_2026\Aula07\Aula07_Matrizes\bin\Debug\net8.0\Aula07_Matrizes.deps.json
+C:\Users\Professor\Desktop\LPR_2026\Aula07\Aula07_Matrizes\bin\Debug\net8.0\Aula07_Matrizes.runtimeconfig.json
+C:\Users\Professor\Desktop\LPR_2026\Aula07\Aula07_Matrizes\bin\Debug\net8.0\Aula07_Matrizes.dll
+C:\Users\Professor\Desktop\LPR_2026\Aula07\Aula07_Matrizes\bin\Debug\net8.0\Aula07_Matrizes.pdb
+C:\Users\Professor\Desktop\LPR_2026\Aula07\Aula07_Matrizes\obj\Debug\net8.0\Aula07_Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professor\Desktop\LPR_2026\Aula07\Aula07_Matrizes\obj\Debug\net8.0\Aula07_Matrizes.AssemblyInfoInputs.cache
+C:\Users\Professor\Desktop\LPR_2026\Aula07\Aula07_Matrizes\obj\Debug\net8.0\Aula07_Matrizes.AssemblyInfo.cs
+C:\Users\Professor\Desktop\LPR_2026\Aula07\Aula07_Matrizes\obj\Debug\net8.0\Aula07_Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\Professor\Desktop\LPR_2026\Aula07\Aula07_Matrizes\obj\Debug\net8.0\Aula07_Matrizes.sourcelink.json
+C:\Users\Professor\Desktop\LPR_2026\Aula07\Aula07_Matrizes\obj\Debug\net8.0\Aula07_Matrizes.dll
+C:\Users\Professor\Desktop\LPR_2026\Aula07\Aula07_Matrizes\obj\Debug\net8.0\refint\Aula07_Matrizes.dll
+C:\Users\Professor\Desktop\LPR_2026\Aula07\Aula07_Matrizes\obj\Debug\net8.0\Aula07_Matrizes.pdb
+C:\Users\Professor\Desktop\LPR_2026\Aula07\Aula07_Matrizes\obj\Debug\net8.0\Aula07_Matrizes.genruntimeconfig.cache
+C:\Users\Professor\Desktop\LPR_2026\Aula07\Aula07_Matrizes\obj\Debug\net8.0\ref\Aula07_Matrizes.dll
