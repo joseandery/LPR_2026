@@ -1,0 +1,15 @@
+C:\Users\Professor\Desktop\LPR_2026\Aula08\notebook_aula08\obj\Debug\net8.0\notebook_aula08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professor\Desktop\LPR_2026\Aula08\notebook_aula08\obj\Debug\net8.0\notebook_aula08.AssemblyInfoInputs.cache
+C:\Users\Professor\Desktop\LPR_2026\Aula08\notebook_aula08\obj\Debug\net8.0\notebook_aula08.AssemblyInfo.cs
+C:\Users\Professor\Desktop\LPR_2026\Aula08\notebook_aula08\obj\Debug\net8.0\notebook_aula08.csproj.CoreCompileInputs.cache
+C:\Users\Professor\Desktop\LPR_2026\Aula08\notebook_aula08\obj\Debug\net8.0\notebook_aula08.sourcelink.json
+C:\Users\Professor\Desktop\LPR_2026\Aula08\notebook_aula08\bin\Debug\net8.0\notebook_aula08.exe
+C:\Users\Professor\Desktop\LPR_2026\Aula08\notebook_aula08\bin\Debug\net8.0\notebook_aula08.deps.json
+C:\Users\Professor\Desktop\LPR_2026\Aula08\notebook_aula08\bin\Debug\net8.0\notebook_aula08.runtimeconfig.json
+C:\Users\Professor\Desktop\LPR_2026\Aula08\notebook_aula08\bin\Debug\net8.0\notebook_aula08.dll
+C:\Users\Professor\Desktop\LPR_2026\Aula08\notebook_aula08\bin\Debug\net8.0\notebook_aula08.pdb
+C:\Users\Professor\Desktop\LPR_2026\Aula08\notebook_aula08\obj\Debug\net8.0\notebook_aula08.dll
+C:\Users\Professor\Desktop\LPR_2026\Aula08\notebook_aula08\obj\Debug\net8.0\refint\notebook_aula08.dll
+C:\Users\Professor\Desktop\LPR_2026\Aula08\notebook_aula08\obj\Debug\net8.0\notebook_aula08.pdb
+C:\Users\Professor\Desktop\LPR_2026\Aula08\notebook_aula08\obj\Debug\net8.0\notebook_aula08.genruntimeconfig.cache
+C:\Users\Professor\Desktop\LPR_2026\Aula08\notebook_aula08\obj\Debug\net8.0\ref\notebook_aula08.dll
