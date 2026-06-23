@@ -1,0 +1,15 @@
+C:\Users\Professor\Desktop\LPR_2026\Aula09\notebook_listas\bin\Debug\net8.0\notebook_listas.exe
+C:\Users\Professor\Desktop\LPR_2026\Aula09\notebook_listas\bin\Debug\net8.0\notebook_listas.deps.json
+C:\Users\Professor\Desktop\LPR_2026\Aula09\notebook_listas\bin\Debug\net8.0\notebook_listas.runtimeconfig.json
+C:\Users\Professor\Desktop\LPR_2026\Aula09\notebook_listas\bin\Debug\net8.0\notebook_listas.dll
+C:\Users\Professor\Desktop\LPR_2026\Aula09\notebook_listas\bin\Debug\net8.0\notebook_listas.pdb
+C:\Users\Professor\Desktop\LPR_2026\Aula09\notebook_listas\obj\Debug\net8.0\notebook_listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professor\Desktop\LPR_2026\Aula09\notebook_listas\obj\Debug\net8.0\notebook_listas.AssemblyInfoInputs.cache
+C:\Users\Professor\Desktop\LPR_2026\Aula09\notebook_listas\obj\Debug\net8.0\notebook_listas.AssemblyInfo.cs
+C:\Users\Professor\Desktop\LPR_2026\Aula09\notebook_listas\obj\Debug\net8.0\notebook_listas.csproj.CoreCompileInputs.cache
+C:\Users\Professor\Desktop\LPR_2026\Aula09\notebook_listas\obj\Debug\net8.0\notebook_listas.sourcelink.json
+C:\Users\Professor\Desktop\LPR_2026\Aula09\notebook_listas\obj\Debug\net8.0\notebook_listas.dll
+C:\Users\Professor\Desktop\LPR_2026\Aula09\notebook_listas\obj\Debug\net8.0\refint\notebook_listas.dll
+C:\Users\Professor\Desktop\LPR_2026\Aula09\notebook_listas\obj\Debug\net8.0\notebook_listas.pdb
+C:\Users\Professor\Desktop\LPR_2026\Aula09\notebook_listas\obj\Debug\net8.0\notebook_listas.genruntimeconfig.cache
+C:\Users\Professor\Desktop\LPR_2026\Aula09\notebook_listas\obj\Debug\net8.0\ref\notebook_listas.dll
